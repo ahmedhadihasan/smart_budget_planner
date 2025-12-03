@@ -1,0 +1,1447 @@
+Date,Category,Amount,Description
+2023-11-01,Shopping,24.44,Decorations
+2023-11-01,Food,9.61,Breakfast cafe
+2023-11-02,Entertainment,7.78,Theater show
+2023-11-02,Education,9.43,Books
+2023-11-03,Food,14.1,Butcher shop
+2023-11-03,Education,8.1,Software license
+2023-11-04,Education,24.1,Tuition
+2023-11-05,Healthcare,19.54,Lab tests
+2023-11-06,Healthcare,17.92,Health insurance
+2023-11-06,Shopping,10.9,Home items
+2023-11-06,Entertainment,9.61,Bowling
+2023-11-07,Entertainment,11.14,Movie tickets
+2023-11-07,Shopping,12.8,Kitchenware
+2023-11-07,Shopping,23.11,Tools
+2023-11-07,Education,15.52,Certification
+2023-11-07,Transportation,7.59,Bus fare
+2023-11-08,Bills,10.49,Gas bill
+2023-11-08,Food,7.72,Fast food
+2023-11-08,Shopping,8.9,Accessories
+2023-11-08,Education,14.61,Training
+2023-11-08,Education,7.12,Study materials
+2023-11-09,Shopping,20.19,Accessories
+2023-11-09,Healthcare,3.33,Medicine
+2023-11-09,Transportation,5.13,Gas/Fuel
+2023-11-10,Education,25.94,Certification
+2023-11-10,Bills,20.38,Water bill
+2023-11-10,Shopping,12.96,Tools
+2023-11-11,Education,14.71,Software license
+2023-11-12,Other,7.71,Repair
+2023-11-13,Transportation,4.21,Bus fare
+2023-11-14,Entertainment,10.92,Gaming
+2023-11-16,Transportation,8.92,Bus fare
+2023-11-16,Other,8.49,Repair
+2023-11-16,Food,12.66,Fruit stand
+2023-11-17,Healthcare,5.94,Dental checkup
+2023-11-17,Shopping,15.66,Accessories
+2023-11-17,Entertainment,9.36,Arcade
+2023-11-18,Food,13.44,Bakery items
+2023-11-18,Shopping,7.82,Bedding
+2023-11-19,Transportation,6.4,Toll road
+2023-11-19,Shopping,6.15,Tools
+2023-11-20,Entertainment,3.23,Streaming service
+2023-11-21,Food,14.27,Snacks
+2023-11-21,Education,24.03,Tuition
+2023-11-23,Entertainment,9.66,Streaming service
+2023-11-23,Shopping,22.84,Home items
+2023-11-25,Food,3.61,Coffee shop
+2023-11-25,Food,8.47,Dinner out
+2023-11-25,Bills,12.88,Trash service
+2023-11-25,Transportation,3.75,Ride share
+2023-11-27,Education,13.95,Software license
+2023-11-27,Shopping,4.31,Furniture
+2023-11-27,Food,12.09,Street food
+2023-11-29,Entertainment,9.81,Bowling
+2023-11-29,Food,6.71,Dinner out
+2023-11-29,Transportation,9.17,Toll road
+2023-11-29,Healthcare,3.88,Lab tests
+2023-11-29,Education,17.8,Study materials
+2023-12-01,Education,25.08,Study materials
+2023-12-01,Entertainment,11.14,Theater show
+2023-12-01,Bills,11.72,Insurance
+2023-12-02,Education,14.14,Books
+2023-12-02,Transportation,2.71,Ride share
+2023-12-02,Education,18.1,Online course
+2023-12-03,Food,2.65,Dinner out
+2023-12-03,Healthcare,9.05,Pharmacy
+2023-12-04,Other,10.98,Miscellaneous
+2023-12-05,Entertainment,9.38,Gaming
+2023-12-05,Food,4.71,Seafood
+2023-12-05,Food,10.42,Restaurant meal
+2023-12-06,Bills,42.53,Gas bill
+2023-12-06,Transportation,4.55,Parking fee
+2023-12-06,Other,6.21,Donation
+2023-12-07,Other,9.9,Donation
+2023-12-07,Entertainment,10.2,Music subscription
+2023-12-08,Bills,42.39,Insurance
+2023-12-09,Food,6.4,Breakfast cafe
+2023-12-09,Entertainment,6.54,Arcade
+2023-12-11,Healthcare,18.47,Dental checkup
+2023-12-11,Transportation,6.17,Gas/Fuel
+2023-12-11,Healthcare,10.09,Pharmacy
+2023-12-12,Food,11.29,Fast food
+2023-12-13,Shopping,14.56,Decorations
+2023-12-13,Education,9.07,Certification
+2023-12-13,Transportation,8.06,Car wash
+2023-12-14,Healthcare,1.9,Physical therapy
+2023-12-14,Transportation,8.41,Uber
+2023-12-14,Food,9.13,Street food
+2023-12-15,Other,7.72,Donation
+2023-12-16,Entertainment,6.12,Concert
+2023-12-16,Healthcare,11.28,Dental checkup
+2023-12-16,Bills,36.67,Water bill
+2023-12-17,Food,12.82,Fast food
+2023-12-17,Bills,33.92,Internet
+2023-12-17,Food,14.15,Fruit stand
+2023-12-18,Other,8.6,Beauty
+2023-12-18,Shopping,23.44,Electronics
+2023-12-18,Entertainment,6.28,Arcade
+2023-12-20,Transportation,7.28,Taxi ride
+2023-12-20,Food,11.65,Market shopping
+2023-12-20,Education,14.87,Books
+2023-12-22,Shopping,24.42,Decorations
+2023-12-22,Shopping,21.79,Clothing
+2023-12-23,Healthcare,11.59,Doctor visit
+2023-12-23,Education,4.66,Books
+2023-12-23,Other,1.21,Beauty
+2023-12-24,Food,11.45,Butcher shop
+2023-12-24,Entertainment,11.04,Streaming service
+2023-12-24,Bills,8.44,HOA fee
+2023-12-24,Shopping,5.13,Kitchenware
+2023-12-24,Transportation,3.62,Vehicle maintenance
+2023-12-25,Food,8.53,Seafood
+2023-12-25,Transportation,2.59,Gas/Fuel
+2023-12-25,Other,10.06,Personal care
+2023-12-26,Other,7.64,Gift
+2023-12-27,Entertainment,5.3,Movie tickets
+2023-12-28,Healthcare,5.4,Eye exam
+2023-12-30,Shopping,4.56,Home items
+2023-12-31,Other,11.64,Hobby materials
+2023-12-31,Shopping,10.47,Decorations
+2024-01-01,Entertainment,4.28,Streaming service
+2024-01-01,Other,3.99,Membership
+2024-01-02,Healthcare,11.78,Eye exam
+2024-01-02,Other,5.02,Hobby materials
+2024-01-02,Education,27.48,Study materials
+2024-01-02,Bills,49.96,Gas bill
+2024-01-02,Food,4.43,Restaurant meal
+2024-01-03,Food,11.77,Dinner out
+2024-01-04,Transportation,1.7,Bus fare
+2024-01-04,Food,3.02,Seafood
+2024-01-06,Education,5.11,Certification
+2024-01-07,Entertainment,14.16,Bowling
+2024-01-07,Education,6.88,Tuition
+2024-01-07,Entertainment,7.19,Arcade
+2024-01-08,Education,19.46,Supplies
+2024-01-08,Other,10.13,Hobby materials
+2024-01-11,Transportation,10.47,Bus fare
+2024-01-11,Entertainment,10.84,Concert
+2024-01-11,Healthcare,2.95,Pharmacy
+2024-01-12,Food,3.66,Breakfast cafe
+2024-01-12,Healthcare,6.16,Physical therapy
+2024-01-12,Shopping,20.74,Clothing
+2024-01-12,Food,6.01,Restaurant meal
+2024-01-14,Healthcare,19.84,Pharmacy
+2024-01-15,Shopping,22.8,Home items
+2024-01-15,Transportation,7.84,Car wash
+2024-01-15,Food,1.94,Market shopping
+2024-01-16,Food,13.74,Fruit stand
+2024-01-16,Shopping,15.0,Clothing
+2024-01-17,Education,6.19,Online course
+2024-01-18,Bills,43.67,Water bill
+2024-01-18,Food,3.4,Seafood
+2024-01-19,Food,10.87,Bakery items
+2024-01-20,Bills,24.38,Gas bill
+2024-01-20,Entertainment,9.33,Gaming
+2024-01-21,Education,24.6,Training
+2024-01-21,Other,16.2,Miscellaneous
+2024-01-21,Transportation,5.5,Parking fee
+2024-01-22,Food,17.26,Food delivery
+2024-01-22,Shopping,26.4,Furniture
+2024-01-23,Shopping,15.47,Shoes
+2024-01-23,Transportation,6.29,Vehicle maintenance
+2024-01-23,Healthcare,19.41,Doctor visit
+2024-01-23,Transportation,4.74,Bus fare
+2024-01-24,Education,30.41,Tuition
+2024-01-25,Transportation,4.72,Car wash
+2024-01-25,Other,16.46,Membership
+2024-01-25,Healthcare,3.43,Health insurance
+2024-01-25,Bills,34.75,Electricity
+2024-01-26,Education,5.57,Tuition
+2024-01-27,Healthcare,5.26,Eye exam
+2024-01-27,Education,13.35,Study materials
+2024-01-27,Transportation,5.66,Taxi ride
+2024-01-27,Education,6.54,Software license
+2024-01-28,Education,23.63,Seminar
+2024-01-28,Education,13.18,Software license
+2024-01-30,Bills,26.62,Gas bill
+2024-01-30,Education,25.1,Books
+2024-01-31,Shopping,19.61,Home items
+2024-01-31,Entertainment,3.17,Movie tickets
+2024-02-01,Entertainment,3.06,Bowling
+2024-02-01,Transportation,10.14,Toll road
+2024-02-01,Other,13.41,Subscription
+2024-02-02,Healthcare,15.7,Medicine
+2024-02-03,Bills,19.39,Internet
+2024-02-03,Other,17.76,Pet supplies
+2024-02-03,Other,2.42,Hobby materials
+2024-02-03,Transportation,10.57,Car wash
+2024-02-04,Shopping,11.79,Furniture
+2024-02-04,Bills,48.17,Cable TV
+2024-02-06,Other,4.17,Pet supplies
+2024-02-06,Education,4.84,Certification
+2024-02-06,Other,12.55,Miscellaneous
+2024-02-07,Shopping,4.34,Kitchenware
+2024-02-07,Healthcare,2.53,Health insurance
+2024-02-08,Education,13.75,Training
+2024-02-08,Bills,41.32,Insurance
+2024-02-08,Other,9.49,Personal care
+2024-02-09,Bills,21.52,Insurance
+2024-02-09,Entertainment,5.17,Arcade
+2024-02-09,Education,22.25,Study materials
+2024-02-10,Healthcare,16.53,Physical therapy
+2024-02-10,Healthcare,18.41,Eye exam
+2024-02-10,Transportation,1.67,Parking fee
+2024-02-11,Food,15.03,Lunch
+2024-02-11,Food,11.47,Street food
+2024-02-12,Healthcare,19.08,Eye exam
+2024-02-12,Education,27.26,Software license
+2024-02-12,Shopping,23.23,Decorations
+2024-02-12,Food,7.63,Bakery items
+2024-02-12,Food,2.97,Fruit stand
+2024-02-12,Education,16.97,Certification
+2024-02-13,Other,13.41,Personal care
+2024-02-13,Other,9.85,Hobby materials
+2024-02-14,Shopping,5.57,Bedding
+2024-02-15,Healthcare,18.55,Medicine
+2024-02-15,Healthcare,5.53,First aid
+2024-02-16,Bills,28.44,Gas bill
+2024-02-16,Shopping,13.34,Clothing
+2024-02-16,Entertainment,5.72,Concert
+2024-02-17,Bills,23.28,Electricity
+2024-02-18,Bills,38.42,Insurance
+2024-02-18,Shopping,20.01,Electronics
+2024-02-19,Healthcare,8.86,Pharmacy
+2024-02-20,Entertainment,12.44,Gaming
+2024-02-20,Transportation,6.21,Taxi ride
+2024-02-20,Bills,12.89,HOA fee
+2024-02-21,Entertainment,9.3,Concert
+2024-02-21,Entertainment,6.31,Music subscription
+2024-02-21,Healthcare,8.63,Lab tests
+2024-02-21,Food,10.91,Fruit stand
+2024-02-21,Entertainment,6.47,Concert
+2024-02-22,Bills,45.0,Trash service
+2024-02-22,Transportation,9.02,Parking fee
+2024-02-24,Transportation,10.6,Ride share
+2024-02-24,Healthcare,19.24,Dental checkup
+2024-02-25,Shopping,16.76,Clothing
+2024-02-25,Entertainment,8.53,Streaming service
+2024-02-26,Transportation,7.25,Toll road
+2024-02-26,Healthcare,3.71,Physical therapy
+2024-02-27,Bills,25.34,HOA fee
+2024-02-29,Entertainment,9.04,Concert
+2024-03-01,Bills,35.13,Electricity
+2024-03-01,Bills,10.12,Gas bill
+2024-03-02,Transportation,1.83,Parking fee
+2024-03-02,Other,3.67,Miscellaneous
+2024-03-02,Bills,17.41,Phone bill
+2024-03-03,Entertainment,6.26,Theater show
+2024-03-03,Transportation,1.25,Taxi ride
+2024-03-04,Healthcare,2.39,Lab tests
+2024-03-04,Transportation,2.33,Gas/Fuel
+2024-03-05,Bills,30.72,Internet
+2024-03-05,Shopping,4.61,Tools
+2024-03-05,Education,6.04,Training
+2024-03-06,Food,7.49,Fruit stand
+2024-03-06,Entertainment,1.63,Arcade
+2024-03-06,Shopping,11.47,Accessories
+2024-03-07,Transportation,1.42,Taxi ride
+2024-03-07,Bills,8.06,Phone bill
+2024-03-08,Entertainment,7.63,Bowling
+2024-03-10,Bills,16.08,Rent
+2024-03-10,Healthcare,6.35,Pharmacy
+2024-03-10,Shopping,5.17,Accessories
+2024-03-10,Education,8.49,Workshop
+2024-03-10,Other,2.91,Repair
+2024-03-11,Shopping,15.81,Electronics
+2024-03-11,Transportation,1.41,Parking fee
+2024-03-12,Shopping,11.51,Shoes
+2024-03-12,Food,2.25,Market shopping
+2024-03-12,Entertainment,4.9,Theater show
+2024-03-12,Bills,29.3,Trash service
+2024-03-13,Healthcare,13.99,Doctor visit
+2024-03-13,Entertainment,3.83,Movie tickets
+2024-03-15,Healthcare,7.75,Physical therapy
+2024-03-15,Food,10.07,Snacks
+2024-03-15,Education,3.31,Supplies
+2024-03-15,Bills,27.35,HOA fee
+2024-03-15,Other,1.62,Miscellaneous
+2024-03-15,Education,15.39,Supplies
+2024-03-17,Education,9.75,Online course
+2024-03-17,Education,14.29,Online course
+2024-03-17,Other,10.07,Pet supplies
+2024-03-17,Entertainment,4.5,Movie tickets
+2024-03-19,Food,5.14,Butcher shop
+2024-03-19,Entertainment,7.83,Movie tickets
+2024-03-19,Entertainment,8.5,Concert
+2024-03-20,Bills,10.51,Gas bill
+2024-03-21,Healthcare,9.8,Lab tests
+2024-03-21,Bills,11.97,Rent
+2024-03-21,Shopping,15.25,Kitchenware
+2024-03-21,Shopping,17.36,Bedding
+2024-03-23,Food,8.95,Coffee shop
+2024-03-23,Transportation,6.28,Parking fee
+2024-03-23,Healthcare,12.68,Lab tests
+2024-03-24,Shopping,10.53,Decorations
+2024-03-24,Food,6.49,Bakery items
+2024-03-25,Food,4.73,Butcher shop
+2024-03-25,Shopping,10.79,Clothing
+2024-03-26,Education,6.9,Online course
+2024-03-26,Bills,9.42,Water bill
+2024-03-26,Healthcare,9.69,Vitamins
+2024-03-27,Bills,31.79,Gas bill
+2024-03-27,Food,9.82,Street food
+2024-03-28,Shopping,4.71,Kitchenware
+2024-03-29,Education,9.46,Software license
+2024-03-29,Bills,33.37,Phone bill
+2024-03-29,Transportation,3.3,Vehicle maintenance
+2024-03-29,Healthcare,14.12,Dental checkup
+2024-03-30,Shopping,9.4,Tools
+2024-03-30,Bills,24.65,Insurance
+2024-03-30,Transportation,5.37,Gas/Fuel
+2024-03-30,Transportation,6.41,Metro card
+2024-03-30,Entertainment,1.39,Concert
+2024-03-30,Other,7.63,Pet supplies
+2024-03-31,Healthcare,4.82,Health insurance
+2024-03-31,Other,7.17,Repair
+2024-03-31,Shopping,10.84,Kitchenware
+2024-04-01,Transportation,6.97,Metro card
+2024-04-02,Other,1.41,Subscription
+2024-04-02,Other,10.42,Pet supplies
+2024-04-03,Other,7.83,Pet supplies
+2024-04-06,Other,3.87,Beauty
+2024-04-06,Food,9.35,Snacks
+2024-04-06,Education,19.63,Books
+2024-04-07,Shopping,22.86,Kitchenware
+2024-04-08,Bills,10.02,Trash service
+2024-04-08,Bills,32.15,Phone bill
+2024-04-10,Healthcare,7.37,Lab tests
+2024-04-10,Education,14.6,Tuition
+2024-04-11,Entertainment,6.73,Concert
+2024-04-12,Transportation,2.52,Ride share
+2024-04-12,Bills,37.58,Rent
+2024-04-12,Shopping,24.51,Furniture
+2024-04-13,Other,5.77,Subscription
+2024-04-14,Education,13.34,Training
+2024-04-15,Other,6.41,Subscription
+2024-04-15,Healthcare,15.18,Medicine
+2024-04-15,Entertainment,12.97,Movie tickets
+2024-04-16,Education,7.61,Books
+2024-04-16,Shopping,23.12,Decorations
+2024-04-16,Education,24.73,Supplies
+2024-04-17,Education,9.44,Online course
+2024-04-17,Transportation,9.2,Toll road
+2024-04-17,Bills,13.49,Insurance
+2024-04-17,Transportation,5.51,Bus fare
+2024-04-18,Entertainment,3.25,Arcade
+2024-04-18,Healthcare,18.96,Physical therapy
+2024-04-18,Healthcare,4.56,Doctor visit
+2024-04-19,Food,1.19,Grocery shopping
+2024-04-19,Shopping,17.73,Shoes
+2024-04-19,Food,2.71,Fruit stand
+2024-04-20,Shopping,5.37,Clothing
+2024-04-20,Bills,31.44,Gas bill
+2024-04-20,Shopping,17.38,Home items
+2024-04-21,Food,11.77,Dinner out
+2024-04-22,Shopping,10.93,Electronics
+2024-04-22,Shopping,22.89,Bedding
+2024-04-23,Bills,40.36,Phone bill
+2024-04-23,Healthcare,10.25,Pharmacy
+2024-04-24,Bills,49.67,Insurance
+2024-04-25,Entertainment,8.04,Arcade
+2024-04-25,Food,8.56,Dinner out
+2024-04-25,Shopping,21.33,Home items
+2024-04-25,Entertainment,10.24,Music subscription
+2024-04-25,Transportation,2.26,Vehicle maintenance
+2024-04-25,Other,14.75,Pet supplies
+2024-04-26,Healthcare,7.3,Pharmacy
+2024-04-28,Healthcare,15.73,Doctor visit
+2024-04-29,Food,3.1,Snacks
+2024-04-29,Transportation,1.16,Metro card
+2024-04-30,Entertainment,11.18,Music subscription
+2024-04-30,Food,13.46,Restaurant meal
+2024-05-01,Bills,49.53,Phone bill
+2024-05-01,Shopping,14.48,Clothing
+2024-05-02,Healthcare,10.8,Eye exam
+2024-05-02,Other,3.84,Personal care
+2024-05-03,Education,13.86,Books
+2024-05-03,Bills,36.83,Electricity
+2024-05-04,Transportation,5.87,Gas/Fuel
+2024-05-06,Healthcare,4.22,Dental checkup
+2024-05-06,Shopping,23.92,Clothing
+2024-05-07,Food,6.76,Seafood
+2024-05-07,Transportation,7.96,Car wash
+2024-05-07,Other,5.61,Membership
+2024-05-08,Entertainment,12.8,Movie tickets
+2024-05-08,Entertainment,11.11,Sports event
+2024-05-09,Education,31.41,Certification
+2024-05-11,Transportation,2.33,Vehicle maintenance
+2024-05-11,Other,15.29,Gift
+2024-05-13,Entertainment,5.59,Concert
+2024-05-13,Entertainment,7.71,Bowling
+2024-05-13,Food,13.51,Restaurant meal
+2024-05-13,Other,18.55,Subscription
+2024-05-13,Other,3.5,Personal care
+2024-05-14,Bills,57.37,Internet
+2024-05-14,Shopping,5.97,Tools
+2024-05-15,Shopping,17.94,Home items
+2024-05-16,Entertainment,4.49,Gaming
+2024-05-16,Food,7.23,Grocery shopping
+2024-05-17,Other,9.52,Repair
+2024-05-18,Transportation,7.65,Taxi ride
+2024-05-18,Bills,41.72,Insurance
+2024-05-20,Education,11.24,Certification
+2024-05-20,Education,20.11,Online course
+2024-05-20,Shopping,25.3,Tools
+2024-05-21,Entertainment,11.49,Concert
+2024-05-22,Food,8.16,Coffee shop
+2024-05-22,Food,17.55,Coffee shop
+2024-05-22,Transportation,8.62,Metro card
+2024-05-22,Healthcare,2.29,Physical therapy
+2024-05-23,Healthcare,17.79,Lab tests
+2024-05-24,Transportation,1.41,Uber
+2024-05-25,Bills,60.7,Electricity
+2024-05-26,Transportation,3.08,Toll road
+2024-05-26,Healthcare,22.84,Eye exam
+2024-05-27,Other,4.62,Gift
+2024-05-28,Education,19.91,Seminar
+2024-05-28,Healthcare,20.59,Lab tests
+2024-05-28,Healthcare,2.52,Eye exam
+2024-05-28,Bills,61.62,Insurance
+2024-05-29,Entertainment,16.54,Concert
+2024-05-29,Bills,33.71,Gas bill
+2024-05-29,Entertainment,5.57,Arcade
+2024-05-30,Food,14.84,Street food
+2024-06-01,Education,8.24,Tuition
+2024-06-01,Education,18.76,Training
+2024-06-01,Other,9.27,Donation
+2024-06-01,Healthcare,2.06,Pharmacy
+2024-06-03,Shopping,6.88,Electronics
+2024-06-03,Food,3.47,Breakfast cafe
+2024-06-05,Education,16.32,Training
+2024-06-06,Education,9.58,Software license
+2024-06-06,Education,3.83,Books
+2024-06-07,Food,6.24,Seafood
+2024-06-07,Transportation,4.09,Bus fare
+2024-06-07,Food,2.8,Snacks
+2024-06-08,Healthcare,8.69,Medicine
+2024-06-08,Transportation,7.05,Car wash
+2024-06-09,Other,9.73,Beauty
+2024-06-09,Other,12.47,Beauty
+2024-06-09,Other,5.78,Donation
+2024-06-09,Shopping,17.77,Bedding
+2024-06-10,Food,9.36,Restaurant meal
+2024-06-10,Shopping,20.07,Bedding
+2024-06-10,Healthcare,9.9,Health insurance
+2024-06-11,Transportation,7.6,Parking fee
+2024-06-11,Entertainment,2.83,Movie tickets
+2024-06-11,Transportation,7.38,Vehicle maintenance
+2024-06-12,Other,2.96,Repair
+2024-06-12,Healthcare,14.18,Physical therapy
+2024-06-12,Bills,28.33,Gas bill
+2024-06-13,Transportation,6.46,Ride share
+2024-06-14,Other,7.99,Hobby materials
+2024-06-14,Shopping,16.36,Bedding
+2024-06-14,Entertainment,1.43,Concert
+2024-06-15,Shopping,3.2,Shoes
+2024-06-15,Education,9.68,Training
+2024-06-15,Bills,28.07,Electricity
+2024-06-15,Entertainment,4.58,Movie tickets
+2024-06-16,Bills,37.9,Electricity
+2024-06-18,Shopping,4.7,Bedding
+2024-06-18,Education,18.71,Study materials
+2024-06-18,Transportation,3.57,Vehicle maintenance
+2024-06-18,Shopping,16.51,Furniture
+2024-06-18,Transportation,5.3,Toll road
+2024-06-19,Entertainment,9.78,Music subscription
+2024-06-19,Bills,22.17,Trash service
+2024-06-19,Healthcare,15.14,Doctor visit
+2024-06-19,Food,1.29,Fruit stand
+2024-06-20,Shopping,7.3,Accessories
+2024-06-20,Shopping,14.86,Electronics
+2024-06-20,Other,6.52,Miscellaneous
+2024-06-21,Entertainment,10.14,Gaming
+2024-06-22,Shopping,9.22,Shoes
+2024-06-22,Transportation,5.56,Uber
+2024-06-22,Bills,29.29,Rent
+2024-06-23,Education,19.2,Workshop
+2024-06-24,Transportation,6.55,Uber
+2024-06-24,Shopping,8.41,Kitchenware
+2024-06-25,Healthcare,9.26,Health insurance
+2024-06-25,Bills,37.24,HOA fee
+2024-06-26,Healthcare,5.72,Lab tests
+2024-06-26,Food,1.58,Fast food
+2024-06-27,Education,16.2,Training
+2024-06-27,Healthcare,5.6,Dental checkup
+2024-06-28,Education,17.53,Tuition
+2024-06-29,Transportation,5.15,Metro card
+2024-06-29,Transportation,6.27,Metro card
+2024-06-30,Entertainment,9.94,Sports event
+2024-06-30,Entertainment,9.58,Sports event
+2024-06-30,Education,11.49,Training
+2024-07-01,Shopping,9.41,Shoes
+2024-07-01,Transportation,7.17,Taxi ride
+2024-07-01,Food,12.93,Restaurant meal
+2024-07-02,Bills,10.29,Water bill
+2024-07-02,Food,13.8,Breakfast cafe
+2024-07-02,Entertainment,8.68,Movie tickets
+2024-07-03,Food,8.19,Fast food
+2024-07-04,Other,8.6,Miscellaneous
+2024-07-05,Bills,27.53,Internet
+2024-07-06,Entertainment,10.99,Museum
+2024-07-06,Food,8.74,Snacks
+2024-07-06,Other,8.41,Beauty
+2024-07-06,Other,15.91,Subscription
+2024-07-07,Food,3.8,Breakfast cafe
+2024-07-07,Other,8.67,Hobby materials
+2024-07-08,Healthcare,12.49,Dental checkup
+2024-07-09,Shopping,17.02,Home items
+2024-07-10,Healthcare,16.66,Eye exam
+2024-07-10,Education,10.17,Study materials
+2024-07-11,Shopping,7.56,Clothing
+2024-07-12,Education,22.24,Study materials
+2024-07-13,Healthcare,23.43,First aid
+2024-07-13,Education,9.7,Supplies
+2024-07-13,Healthcare,12.54,Pharmacy
+2024-07-13,Transportation,5.31,Ride share
+2024-07-14,Education,31.64,Tuition
+2024-07-15,Transportation,9.13,Car wash
+2024-07-15,Food,5.71,Lunch
+2024-07-15,Entertainment,7.17,Museum
+2024-07-16,Transportation,6.45,Toll road
+2024-07-16,Healthcare,15.64,First aid
+2024-07-16,Bills,45.58,Cable TV
+2024-07-17,Education,21.13,Books
+2024-07-17,Transportation,1.51,Car wash
+2024-07-18,Healthcare,20.64,Medicine
+2024-07-19,Education,28.95,Study materials
+2024-07-19,Bills,48.02,Water bill
+2024-07-20,Healthcare,21.32,Vitamins
+2024-07-20,Education,13.92,Online course
+2024-07-20,Other,14.69,Subscription
+2024-07-21,Transportation,3.05,Parking fee
+2024-07-21,Shopping,8.48,Home items
+2024-07-22,Bills,48.11,Gas bill
+2024-07-23,Education,14.5,Workshop
+2024-07-23,Bills,45.08,Gas bill
+2024-07-24,Bills,48.42,Water bill
+2024-07-26,Transportation,4.87,Gas/Fuel
+2024-07-26,Entertainment,3.61,Theater show
+2024-07-27,Education,29.41,Certification
+2024-07-27,Shopping,13.12,Bedding
+2024-07-28,Food,8.25,Seafood
+2024-07-29,Healthcare,13.08,First aid
+2024-07-30,Shopping,21.86,Clothing
+2024-07-30,Education,7.2,Training
+2024-07-31,Shopping,12.21,Electronics
+2024-08-01,Entertainment,3.45,Gaming
+2024-08-01,Shopping,6.44,Home items
+2024-08-02,Bills,46.02,HOA fee
+2024-08-04,Other,16.0,Membership
+2024-08-04,Entertainment,11.02,Concert
+2024-08-04,Other,10.86,Personal care
+2024-08-05,Bills,31.32,Cable TV
+2024-08-06,Food,3.41,Bakery items
+2024-08-06,Transportation,9.94,Ride share
+2024-08-07,Entertainment,9.1,Streaming service
+2024-08-07,Other,1.77,Beauty
+2024-08-07,Shopping,6.68,Kitchenware
+2024-08-09,Education,21.76,Study materials
+2024-08-09,Healthcare,6.7,Medicine
+2024-08-11,Transportation,9.05,Vehicle maintenance
+2024-08-12,Entertainment,6.03,Streaming service
+2024-08-12,Transportation,8.88,Uber
+2024-08-12,Entertainment,6.06,Concert
+2024-08-13,Food,11.23,Grocery shopping
+2024-08-13,Healthcare,18.63,Pharmacy
+2024-08-13,Bills,13.16,Phone bill
+2024-08-13,Bills,46.01,Trash service
+2024-08-13,Other,7.81,Miscellaneous
+2024-08-13,Transportation,2.0,Metro card
+2024-08-14,Healthcare,9.1,Dental checkup
+2024-08-14,Healthcare,7.49,Dental checkup
+2024-08-14,Food,12.02,Butcher shop
+2024-08-14,Other,8.25,Miscellaneous
+2024-08-14,Healthcare,9.26,Doctor visit
+2024-08-14,Bills,44.25,Cable TV
+2024-08-15,Bills,40.11,Insurance
+2024-08-15,Transportation,1.43,Toll road
+2024-08-15,Entertainment,8.53,Bowling
+2024-08-16,Healthcare,4.43,Eye exam
+2024-08-16,Food,3.93,Coffee shop
+2024-08-16,Shopping,4.2,Electronics
+2024-08-16,Shopping,19.84,Home items
+2024-08-19,Shopping,17.13,Accessories
+2024-08-19,Transportation,7.36,Bus fare
+2024-08-19,Healthcare,4.69,Doctor visit
+2024-08-20,Bills,34.33,Internet
+2024-08-21,Entertainment,8.65,Streaming service
+2024-08-21,Bills,42.28,HOA fee
+2024-08-22,Food,6.93,Food delivery
+2024-08-22,Education,24.77,Supplies
+2024-08-23,Entertainment,11.73,Museum
+2024-08-23,Food,5.58,Fruit stand
+2024-08-24,Bills,35.66,Gas bill
+2024-08-24,Other,4.02,Personal care
+2024-08-25,Healthcare,12.01,Pharmacy
+2024-08-25,Education,15.05,Certification
+2024-08-25,Bills,20.52,HOA fee
+2024-08-26,Food,1.85,Market shopping
+2024-08-26,Bills,24.38,Trash service
+2024-08-27,Transportation,5.45,Taxi ride
+2024-08-28,Other,4.79,Pet supplies
+2024-08-29,Bills,26.31,HOA fee
+2024-08-30,Healthcare,18.58,Dental checkup
+2024-08-31,Food,1.04,Fast food
+2024-08-31,Healthcare,9.41,Eye exam
+2024-08-31,Education,4.49,Certification
+2024-09-01,Other,6.39,Membership
+2024-09-01,Healthcare,10.25,First aid
+2024-09-01,Healthcare,16.8,Lab tests
+2024-09-01,Entertainment,11.22,Movie tickets
+2024-09-02,Education,5.11,Workshop
+2024-09-02,Other,13.25,Repair
+2024-09-03,Entertainment,7.73,Music subscription
+2024-09-03,Transportation,0.77,Uber
+2024-09-04,Entertainment,3.1,Concert
+2024-09-04,Entertainment,9.75,Arcade
+2024-09-05,Healthcare,20.67,Medicine
+2024-09-05,Other,12.71,Pet supplies
+2024-09-05,Food,14.96,Seafood
+2024-09-05,Food,10.99,Fruit stand
+2024-09-06,Food,1.68,Butcher shop
+2024-09-06,Other,15.48,Gift
+2024-09-07,Healthcare,5.32,Doctor visit
+2024-09-07,Education,15.09,Seminar
+2024-09-07,Other,4.85,Donation
+2024-09-09,Healthcare,2.63,Physical therapy
+2024-09-09,Education,24.39,Supplies
+2024-09-09,Transportation,7.52,Bus fare
+2024-09-09,Shopping,19.91,Clothing
+2024-09-09,Bills,24.17,Rent
+2024-09-11,Other,2.65,Subscription
+2024-09-11,Transportation,3.39,Toll road
+2024-09-12,Food,8.35,Market shopping
+2024-09-14,Food,8.32,Street food
+2024-09-15,Bills,23.69,Insurance
+2024-09-16,Healthcare,3.25,Vitamins
+2024-09-16,Transportation,5.19,Ride share
+2024-09-16,Shopping,19.09,Decorations
+2024-09-17,Bills,50.45,Gas bill
+2024-09-17,Education,10.18,Seminar
+2024-09-18,Food,4.91,Lunch
+2024-09-18,Food,12.35,Breakfast cafe
+2024-09-18,Transportation,6.78,Taxi ride
+2024-09-18,Transportation,1.13,Gas/Fuel
+2024-09-18,Transportation,8.55,Parking fee
+2024-09-19,Other,4.16,Hobby materials
+2024-09-20,Other,7.14,Repair
+2024-09-21,Shopping,23.43,Clothing
+2024-09-22,Entertainment,5.98,Gaming
+2024-09-23,Other,9.88,Membership
+2024-09-23,Education,8.69,Tuition
+2024-09-23,Entertainment,5.13,Arcade
+2024-09-23,Food,11.96,Restaurant meal
+2024-09-23,Bills,44.55,Insurance
+2024-09-23,Food,3.05,Coffee shop
+2024-09-23,Other,1.76,Personal care
+2024-09-24,Other,15.34,Repair
+2024-09-24,Entertainment,4.36,Streaming service
+2024-09-24,Entertainment,11.41,Music subscription
+2024-09-25,Bills,14.01,Rent
+2024-09-26,Shopping,19.45,Kitchenware
+2024-09-26,Transportation,5.43,Parking fee
+2024-09-26,Education,12.93,Study materials
+2024-09-26,Healthcare,17.04,Medicine
+2024-09-27,Transportation,2.78,Car wash
+2024-09-28,Healthcare,7.21,Medicine
+2024-09-28,Entertainment,4.95,Concert
+2024-09-29,Education,18.64,Workshop
+2024-09-29,Healthcare,6.69,Health insurance
+2024-09-29,Other,1.19,Beauty
+2024-09-29,Transportation,5.2,Car wash
+2024-09-30,Healthcare,9.17,Lab tests
+2024-09-30,Shopping,13.81,Accessories
+2024-09-30,Bills,31.23,Electricity
+2024-09-30,Shopping,24.1,Clothing
+2024-09-30,Entertainment,3.26,Gaming
+2024-09-30,Food,7.31,Market shopping
+2024-10-01,Bills,36.84,Insurance
+2024-10-01,Healthcare,4.41,Doctor visit
+2024-10-01,Food,12.44,Fruit stand
+2024-10-02,Shopping,4.08,Tools
+2024-10-02,Education,22.28,Tuition
+2024-10-02,Shopping,7.6,Kitchenware
+2024-10-03,Healthcare,16.84,First aid
+2024-10-03,Education,9.24,Books
+2024-10-03,Other,9.23,Repair
+2024-10-03,Other,13.52,Miscellaneous
+2024-10-03,Shopping,12.43,Kitchenware
+2024-10-04,Other,14.95,Personal care
+2024-10-04,Shopping,15.12,Accessories
+2024-10-05,Transportation,5.91,Taxi ride
+2024-10-05,Food,2.31,Lunch
+2024-10-05,Entertainment,13.22,Theater show
+2024-10-06,Transportation,9.84,Ride share
+2024-10-07,Healthcare,17.47,Physical therapy
+2024-10-07,Transportation,3.6,Taxi ride
+2024-10-08,Food,7.73,Food delivery
+2024-10-10,Education,23.04,Training
+2024-10-10,Bills,11.88,Internet
+2024-10-12,Education,16.03,Certification
+2024-10-12,Entertainment,9.45,Gaming
+2024-10-12,Healthcare,3.33,Eye exam
+2024-10-12,Food,3.26,Street food
+2024-10-14,Healthcare,5.76,Eye exam
+2024-10-14,Other,3.28,Membership
+2024-10-15,Food,13.24,Street food
+2024-10-15,Food,11.64,Coffee shop
+2024-10-15,Education,23.28,Supplies
+2024-10-15,Entertainment,13.19,Movie tickets
+2024-10-16,Transportation,10.39,Uber
+2024-10-16,Shopping,13.2,Furniture
+2024-10-16,Other,13.03,Donation
+2024-10-17,Healthcare,5.85,Medicine
+2024-10-18,Entertainment,12.1,Concert
+2024-10-18,Education,26.63,Books
+2024-10-19,Other,4.72,Pet supplies
+2024-10-19,Education,7.36,Software license
+2024-10-19,Food,14.73,Fast food
+2024-10-20,Healthcare,19.77,Physical therapy
+2024-10-20,Transportation,1.02,Bus fare
+2024-10-20,Entertainment,8.9,Sports event
+2024-10-20,Healthcare,12.2,Lab tests
+2024-10-21,Transportation,8.34,Parking fee
+2024-10-21,Other,7.3,Membership
+2024-10-23,Transportation,8.16,Taxi ride
+2024-10-23,Food,13.98,Fruit stand
+2024-10-23,Education,14.14,Tuition
+2024-10-23,Entertainment,12.18,Movie tickets
+2024-10-23,Food,15.27,Market shopping
+2024-10-24,Food,1.28,Street food
+2024-10-24,Entertainment,9.87,Gaming
+2024-10-24,Shopping,7.78,Accessories
+2024-10-25,Shopping,4.49,Tools
+2024-10-25,Education,6.62,Books
+2024-10-26,Other,3.01,Miscellaneous
+2024-10-26,Bills,25.27,Internet
+2024-10-26,Bills,20.55,Insurance
+2024-10-27,Entertainment,8.69,Arcade
+2024-10-27,Food,4.67,Market shopping
+2024-10-27,Transportation,4.47,Uber
+2024-10-28,Transportation,8.6,Uber
+2024-10-28,Food,8.86,Street food
+2024-10-28,Healthcare,19.0,Pharmacy
+2024-10-29,Bills,20.76,Electricity
+2024-10-29,Education,8.38,Tuition
+2024-10-30,Entertainment,12.47,Arcade
+2024-10-30,Healthcare,13.15,Vitamins
+2024-10-30,Transportation,8.29,Taxi ride
+2024-10-31,Healthcare,14.32,Medicine
+2024-10-31,Transportation,9.74,Ride share
+2024-11-01,Food,10.43,Market shopping
+2024-11-01,Shopping,25.04,Decorations
+2024-11-01,Education,4.77,Tuition
+2024-11-02,Healthcare,21.1,Eye exam
+2024-11-02,Healthcare,15.34,Pharmacy
+2024-11-02,Healthcare,15.31,Vitamins
+2024-11-03,Food,14.61,Fast food
+2024-11-04,Healthcare,7.13,Health insurance
+2024-11-05,Transportation,2.64,Metro card
+2024-11-06,Entertainment,11.19,Concert
+2024-11-07,Healthcare,7.32,Doctor visit
+2024-11-07,Other,10.72,Hobby materials
+2024-11-07,Healthcare,14.6,Dental checkup
+2024-11-07,Education,6.17,Workshop
+2024-11-07,Education,21.24,Online course
+2024-11-07,Education,22.33,Study materials
+2024-11-07,Healthcare,13.99,Dental checkup
+2024-11-08,Other,10.04,Beauty
+2024-11-08,Transportation,9.02,Gas/Fuel
+2024-11-09,Transportation,7.86,Metro card
+2024-11-10,Entertainment,13.83,Gaming
+2024-11-10,Transportation,9.35,Ride share
+2024-11-11,Entertainment,5.19,Sports event
+2024-11-12,Transportation,2.96,Parking fee
+2024-11-12,Education,26.94,Study materials
+2024-11-14,Entertainment,12.24,Movie tickets
+2024-11-15,Healthcare,18.51,Medicine
+2024-11-15,Education,4.64,Books
+2024-11-16,Shopping,8.7,Tools
+2024-11-17,Education,15.26,Tuition
+2024-11-18,Bills,34.42,Gas bill
+2024-11-18,Entertainment,9.62,Gaming
+2024-11-18,Education,25.03,Workshop
+2024-11-19,Education,16.43,Books
+2024-11-19,Bills,53.49,Phone bill
+2024-11-19,Transportation,6.51,Gas/Fuel
+2024-11-20,Entertainment,12.31,Museum
+2024-11-20,Food,13.01,Grocery shopping
+2024-11-20,Healthcare,14.53,Dental checkup
+2024-11-21,Shopping,6.09,Furniture
+2024-11-22,Transportation,2.66,Gas/Fuel
+2024-11-23,Education,29.19,Workshop
+2024-11-23,Shopping,22.42,Accessories
+2024-11-24,Healthcare,16.79,Physical therapy
+2024-11-24,Education,15.01,Study materials
+2024-11-24,Food,6.55,Dinner out
+2024-11-24,Education,13.45,Tuition
+2024-11-26,Bills,50.63,Electricity
+2024-11-26,Food,15.06,Restaurant meal
+2024-11-26,Bills,18.14,Trash service
+2024-11-27,Shopping,15.89,Tools
+2024-11-28,Education,25.43,Books
+2024-11-28,Shopping,12.08,Bedding
+2024-11-30,Entertainment,11.64,Arcade
+2024-11-30,Other,10.17,Subscription
+2024-11-30,Healthcare,7.42,Medicine
+2024-11-30,Other,5.63,Repair
+2024-12-01,Other,1.65,Donation
+2024-12-01,Shopping,10.32,Kitchenware
+2024-12-02,Education,10.83,Seminar
+2024-12-02,Other,16.37,Donation
+2024-12-03,Entertainment,5.64,Music subscription
+2024-12-03,Other,15.17,Membership
+2024-12-04,Other,2.77,Pet supplies
+2024-12-04,Healthcare,15.45,Eye exam
+2024-12-04,Transportation,6.55,Bus fare
+2024-12-05,Entertainment,5.83,Museum
+2024-12-05,Food,2.61,Butcher shop
+2024-12-05,Education,12.19,Study materials
+2024-12-05,Other,2.53,Repair
+2024-12-06,Transportation,10.56,Taxi ride
+2024-12-06,Healthcare,7.39,Medicine
+2024-12-08,Education,8.02,Software license
+2024-12-09,Entertainment,12.59,Streaming service
+2024-12-10,Entertainment,3.73,Concert
+2024-12-11,Bills,27.97,Internet
+2024-12-11,Shopping,18.5,Shoes
+2024-12-11,Other,16.51,Repair
+2024-12-12,Other,14.87,Miscellaneous
+2024-12-12,Entertainment,4.95,Museum
+2024-12-12,Transportation,5.9,Uber
+2024-12-13,Food,8.22,Bakery items
+2024-12-14,Transportation,8.92,Metro card
+2024-12-15,Healthcare,15.65,Vitamins
+2024-12-16,Education,19.38,Books
+2024-12-17,Entertainment,8.0,Concert
+2024-12-18,Education,3.94,Workshop
+2024-12-18,Other,13.57,Subscription
+2024-12-18,Healthcare,16.72,Eye exam
+2024-12-18,Entertainment,9.8,Theater show
+2024-12-19,Food,12.84,Seafood
+2024-12-19,Healthcare,2.32,Dental checkup
+2024-12-19,Transportation,3.76,Gas/Fuel
+2024-12-19,Bills,48.76,Trash service
+2024-12-19,Food,13.87,Dinner out
+2024-12-19,Healthcare,20.0,Physical therapy
+2024-12-20,Education,18.26,Books
+2024-12-21,Bills,23.66,Electricity
+2024-12-22,Entertainment,10.78,Gaming
+2024-12-22,Education,9.99,Supplies
+2024-12-22,Healthcare,6.32,First aid
+2024-12-22,Other,14.17,Miscellaneous
+2024-12-24,Education,26.48,Books
+2024-12-24,Food,3.23,Dinner out
+2024-12-24,Education,12.89,Training
+2024-12-25,Entertainment,2.47,Gaming
+2024-12-25,Healthcare,15.5,Dental checkup
+2024-12-27,Shopping,22.0,Clothing
+2024-12-27,Food,10.4,Restaurant meal
+2024-12-28,Shopping,21.65,Clothing
+2024-12-28,Shopping,10.25,Clothing
+2024-12-28,Shopping,7.46,Clothing
+2024-12-28,Entertainment,4.25,Sports event
+2024-12-29,Shopping,9.21,Kitchenware
+2024-12-29,Other,14.6,Pet supplies
+2024-12-30,Food,7.03,Coffee shop
+2024-12-30,Bills,38.86,Phone bill
+2024-12-31,Education,23.57,Software license
+2024-12-31,Healthcare,11.63,Eye exam
+2024-12-31,Transportation,7.16,Toll road
+2024-12-31,Shopping,12.08,Kitchenware
+2025-01-01,Bills,37.47,Internet
+2025-01-01,Food,2.72,Snacks
+2025-01-02,Food,1.07,Seafood
+2025-01-02,Bills,35.64,Water bill
+2025-01-02,Other,11.04,Gift
+2025-01-02,Food,1.98,Grocery shopping
+2025-01-02,Healthcare,12.95,Medicine
+2025-01-03,Entertainment,2.95,Music subscription
+2025-01-03,Healthcare,10.79,Eye exam
+2025-01-03,Food,10.75,Fruit stand
+2025-01-04,Bills,42.59,Insurance
+2025-01-04,Transportation,1.44,Toll road
+2025-01-04,Food,9.72,Butcher shop
+2025-01-05,Food,10.32,Breakfast cafe
+2025-01-06,Education,7.12,Tuition
+2025-01-07,Shopping,18.76,Shoes
+2025-01-07,Bills,16.07,Gas bill
+2025-01-07,Education,19.92,Study materials
+2025-01-07,Healthcare,12.49,Physical therapy
+2025-01-07,Education,16.89,Training
+2025-01-08,Food,10.36,Restaurant meal
+2025-01-08,Transportation,2.96,Uber
+2025-01-09,Entertainment,9.71,Movie tickets
+2025-01-09,Shopping,6.8,Home items
+2025-01-09,Food,1.5,Bakery items
+2025-01-09,Other,1.74,Repair
+2025-01-09,Transportation,8.17,Gas/Fuel
+2025-01-10,Transportation,6.36,Gas/Fuel
+2025-01-12,Other,13.42,Pet supplies
+2025-01-12,Entertainment,1.97,Theater show
+2025-01-13,Entertainment,2.54,Movie tickets
+2025-01-13,Bills,16.01,Insurance
+2025-01-13,Education,19.48,Seminar
+2025-01-14,Other,14.21,Membership
+2025-01-15,Food,8.18,Breakfast cafe
+2025-01-15,Education,17.34,Seminar
+2025-01-15,Food,9.07,Street food
+2025-01-16,Other,7.45,Subscription
+2025-01-17,Transportation,5.58,Gas/Fuel
+2025-01-17,Healthcare,10.7,Physical therapy
+2025-01-17,Food,10.71,Seafood
+2025-01-18,Other,6.43,Hobby materials
+2025-01-18,Education,5.83,Books
+2025-01-18,Shopping,11.16,Accessories
+2025-01-19,Entertainment,11.76,Streaming service
+2025-01-19,Healthcare,13.59,Doctor visit
+2025-01-19,Education,22.44,Tuition
+2025-01-19,Other,8.05,Personal care
+2025-01-20,Shopping,11.76,Electronics
+2025-01-21,Food,11.31,Lunch
+2025-01-21,Transportation,4.43,Gas/Fuel
+2025-01-22,Bills,33.83,HOA fee
+2025-01-22,Shopping,13.57,Bedding
+2025-01-22,Shopping,6.24,Furniture
+2025-01-23,Healthcare,10.88,Lab tests
+2025-01-23,Transportation,5.44,Ride share
+2025-01-23,Bills,13.13,Insurance
+2025-01-24,Shopping,7.79,Tools
+2025-01-24,Shopping,19.3,Electronics
+2025-01-25,Transportation,1.82,Ride share
+2025-01-25,Food,8.58,Food delivery
+2025-01-25,Healthcare,16.33,Lab tests
+2025-01-25,Shopping,15.69,Decorations
+2025-01-25,Food,2.03,Seafood
+2025-01-25,Healthcare,13.29,Vitamins
+2025-01-26,Shopping,13.25,Home items
+2025-01-26,Healthcare,9.18,First aid
+2025-01-27,Shopping,11.52,Bedding
+2025-01-28,Other,5.6,Subscription
+2025-01-28,Other,11.94,Gift
+2025-01-30,Bills,36.64,Water bill
+2025-01-31,Shopping,22.92,Kitchenware
+2025-02-01,Shopping,13.22,Bedding
+2025-02-01,Education,32.15,Certification
+2025-02-01,Education,20.88,Tuition
+2025-02-01,Healthcare,4.74,Lab tests
+2025-02-01,Transportation,7.87,Taxi ride
+2025-02-02,Other,16.62,Repair
+2025-02-02,Transportation,6.21,Vehicle maintenance
+2025-02-02,Education,33.68,Training
+2025-02-03,Bills,35.25,Phone bill
+2025-02-03,Shopping,27.72,Electronics
+2025-02-05,Other,3.39,Beauty
+2025-02-05,Education,12.36,Online course
+2025-02-06,Other,9.88,Miscellaneous
+2025-02-06,Entertainment,14.54,Music subscription
+2025-02-06,Shopping,10.64,Clothing
+2025-02-07,Healthcare,10.57,Medicine
+2025-02-07,Bills,50.08,Insurance
+2025-02-07,Bills,12.38,Insurance
+2025-02-10,Healthcare,6.18,Pharmacy
+2025-02-10,Bills,35.42,Cable TV
+2025-02-10,Food,16.41,Lunch
+2025-02-11,Bills,32.32,Trash service
+2025-02-11,Healthcare,15.91,First aid
+2025-02-12,Education,13.17,Supplies
+2025-02-12,Food,16.35,Breakfast cafe
+2025-02-13,Transportation,7.54,Bus fare
+2025-02-13,Bills,57.86,Water bill
+2025-02-14,Transportation,4.04,Metro card
+2025-02-14,Transportation,11.09,Parking fee
+2025-02-15,Entertainment,15.63,Movie tickets
+2025-02-15,Healthcare,8.61,Physical therapy
+2025-02-17,Food,5.1,Snacks
+2025-02-17,Other,10.56,Personal care
+2025-02-18,Education,32.29,Software license
+2025-02-18,Shopping,28.0,Decorations
+2025-02-18,Transportation,2.5,Gas/Fuel
+2025-02-19,Food,18.48,Restaurant meal
+2025-02-20,Other,5.06,Hobby materials
+2025-02-20,Education,21.14,Training
+2025-02-21,Education,15.41,Certification
+2025-02-22,Transportation,6.62,Ride share
+2025-02-22,Bills,49.71,Insurance
+2025-02-22,Entertainment,9.0,Gaming
+2025-02-22,Education,9.43,Workshop
+2025-02-23,Bills,32.56,Phone bill
+2025-02-25,Bills,47.1,Cable TV
+2025-02-25,Healthcare,21.19,Vitamins
+2025-02-26,Shopping,18.07,Accessories
+2025-02-26,Education,17.84,Software license
+2025-02-26,Bills,30.25,Phone bill
+2025-02-26,Bills,28.63,Gas bill
+2025-03-01,Other,7.23,Subscription
+2025-03-02,Healthcare,4.49,Physical therapy
+2025-03-02,Other,11.95,Pet supplies
+2025-03-02,Healthcare,21.84,Medicine
+2025-03-02,Other,18.92,Repair
+2025-03-03,Healthcare,14.52,First aid
+2025-03-03,Bills,16.09,Rent
+2025-03-03,Entertainment,4.18,Music subscription
+2025-03-03,Education,24.7,Seminar
+2025-03-04,Other,9.2,Hobby materials
+2025-03-04,Bills,48.36,Gas bill
+2025-03-05,Entertainment,13.66,Concert
+2025-03-05,Food,6.73,Food delivery
+2025-03-05,Food,9.12,Restaurant meal
+2025-03-05,Shopping,25.33,Tools
+2025-03-05,Transportation,5.28,Bus fare
+2025-03-05,Entertainment,6.46,Sports event
+2025-03-05,Bills,16.62,Trash service
+2025-03-07,Bills,39.74,Gas bill
+2025-03-10,Entertainment,16.22,Museum
+2025-03-10,Other,20.48,Gift
+2025-03-10,Education,22.4,Tuition
+2025-03-11,Entertainment,9.87,Theater show
+2025-03-11,Transportation,3.89,Metro card
+2025-03-11,Food,18.64,Fast food
+2025-03-13,Education,29.95,Tuition
+2025-03-13,Transportation,3.5,Taxi ride
+2025-03-14,Healthcare,3.89,Lab tests
+2025-03-14,Transportation,7.13,Toll road
+2025-03-15,Bills,26.86,Insurance
+2025-03-15,Education,32.92,Training
+2025-03-15,Education,12.08,Study materials
+2025-03-16,Food,15.71,Fruit stand
+2025-03-16,Other,11.3,Repair
+2025-03-18,Shopping,24.5,Accessories
+2025-03-19,Education,14.21,Workshop
+2025-03-20,Entertainment,8.83,Theater show
+2025-03-20,Other,2.1,Donation
+2025-03-21,Bills,60.48,HOA fee
+2025-03-21,Transportation,6.04,Bus fare
+2025-03-21,Education,16.01,Workshop
+2025-03-22,Education,13.85,Study materials
+2025-03-24,Other,13.09,Donation
+2025-03-26,Shopping,14.76,Bedding
+2025-03-27,Bills,16.39,Electricity
+2025-03-27,Transportation,2.61,Parking fee
+2025-03-27,Bills,17.45,Water bill
+2025-03-28,Education,33.5,Tuition
+2025-03-29,Food,5.04,Fruit stand
+2025-03-29,Other,14.95,Beauty
+2025-03-30,Education,7.82,Training
+2025-04-01,Shopping,30.53,Bedding
+2025-04-01,Healthcare,20.33,Pharmacy
+2025-04-02,Entertainment,7.03,Movie tickets
+2025-04-02,Transportation,6.86,Metro card
+2025-04-02,Entertainment,11.61,Arcade
+2025-04-02,Education,28.14,Seminar
+2025-04-03,Food,16.09,Street food
+2025-04-03,Shopping,29.57,Bedding
+2025-04-03,Food,8.6,Market shopping
+2025-04-04,Transportation,2.97,Ride share
+2025-04-04,Healthcare,28.22,Doctor visit
+2025-04-04,Shopping,39.36,Electronics
+2025-04-05,Bills,52.52,Phone bill
+2025-04-05,Healthcare,12.89,Lab tests
+2025-04-05,Shopping,31.12,Clothing
+2025-04-05,Healthcare,5.96,Pharmacy
+2025-04-05,Shopping,11.42,Shoes
+2025-04-06,Education,26.17,Online course
+2025-04-06,Other,2.75,Repair
+2025-04-06,Education,22.3,Certification
+2025-04-06,Entertainment,5.78,Concert
+2025-04-06,Education,11.14,Books
+2025-04-10,Shopping,37.09,Clothing
+2025-04-10,Food,5.66,Seafood
+2025-04-11,Entertainment,6.1,Arcade
+2025-04-12,Healthcare,27.69,Eye exam
+2025-04-12,Other,19.31,Gift
+2025-04-12,Transportation,10.78,Parking fee
+2025-04-12,Healthcare,29.63,Lab tests
+2025-04-12,Other,4.67,Donation
+2025-04-13,Transportation,1.94,Taxi ride
+2025-04-13,Transportation,1.85,Taxi ride
+2025-04-14,Education,12.23,Books
+2025-04-14,Transportation,10.95,Taxi ride
+2025-04-15,Entertainment,3.95,Gaming
+2025-04-15,Food,7.06,Breakfast cafe
+2025-04-17,Food,6.05,Dinner out
+2025-04-17,Entertainment,8.91,Movie tickets
+2025-04-18,Entertainment,6.51,Gaming
+2025-04-19,Entertainment,8.29,Theater show
+2025-04-22,Bills,55.54,Trash service
+2025-04-23,Other,19.87,Donation
+2025-04-23,Food,18.17,Restaurant meal
+2025-04-24,Food,18.9,Coffee shop
+2025-04-24,Shopping,12.8,Tools
+2025-04-25,Bills,21.76,Internet
+2025-04-25,Entertainment,12.0,Gaming
+2025-04-27,Education,26.22,Supplies
+2025-04-27,Entertainment,3.55,Arcade
+2025-04-27,Shopping,26.11,Decorations
+2025-04-28,Healthcare,14.95,Health insurance
+2025-04-28,Other,3.39,Pet supplies
+2025-04-29,Other,15.99,Repair
+2025-04-30,Education,14.07,Books
+2025-04-30,Food,7.49,Grocery shopping
+2025-04-30,Education,29.4,Training
+2025-04-30,Food,14.66,Restaurant meal
+2025-05-02,Entertainment,8.43,Concert
+2025-05-03,Entertainment,17.82,Museum
+2025-05-03,Healthcare,25.08,First aid
+2025-05-03,Entertainment,2.71,Streaming service
+2025-05-03,Education,33.09,Study materials
+2025-05-04,Transportation,11.73,Toll road
+2025-05-05,Bills,22.83,Gas bill
+2025-05-05,Shopping,10.01,Accessories
+2025-05-06,Entertainment,12.7,Museum
+2025-05-06,Healthcare,20.12,Doctor visit
+2025-05-07,Entertainment,7.03,Museum
+2025-05-08,Bills,34.38,HOA fee
+2025-05-09,Shopping,13.96,Kitchenware
+2025-05-09,Bills,58.12,HOA fee
+2025-05-10,Other,16.91,Miscellaneous
+2025-05-11,Shopping,35.63,Shoes
+2025-05-12,Education,37.45,Seminar
+2025-05-12,Entertainment,18.77,Movie tickets
+2025-05-12,Transportation,6.0,Ride share
+2025-05-14,Food,14.98,Food delivery
+2025-05-15,Healthcare,22.78,Pharmacy
+2025-05-15,Bills,34.05,Gas bill
+2025-05-15,Other,9.92,Beauty
+2025-05-16,Food,14.29,Food delivery
+2025-05-17,Food,9.27,Grocery shopping
+2025-05-17,Shopping,29.43,Kitchenware
+2025-05-18,Entertainment,5.18,Bowling
+2025-05-18,Education,8.92,Workshop
+2025-05-19,Transportation,6.24,Metro card
+2025-05-19,Healthcare,26.49,Medicine
+2025-05-21,Transportation,12.43,Taxi ride
+2025-05-22,Food,8.73,Coffee shop
+2025-05-22,Healthcare,13.03,Doctor visit
+2025-05-22,Shopping,34.89,Accessories
+2025-05-22,Healthcare,27.1,Dental checkup
+2025-05-23,Food,1.97,Bakery items
+2025-05-23,Other,1.5,Donation
+2025-05-25,Entertainment,9.24,Streaming service
+2025-05-26,Other,14.63,Repair
+2025-05-26,Transportation,14.22,Taxi ride
+2025-05-28,Bills,65.91,Cable TV
+2025-05-28,Food,3.68,Bakery items
+2025-05-29,Entertainment,18.5,Arcade
+2025-05-29,Food,8.63,Food delivery
+2025-05-29,Healthcare,9.72,Doctor visit
+2025-05-29,Transportation,6.32,Bus fare
+2025-05-29,Bills,20.77,Trash service
+2025-05-29,Other,11.55,Personal care
+2025-05-30,Entertainment,13.23,Gaming
+2025-05-31,Shopping,22.24,Electronics
+2025-06-01,Other,14.37,Donation
+2025-06-01,Healthcare,12.5,Medicine
+2025-06-01,Education,19.23,Study materials
+2025-06-01,Shopping,22.13,Electronics
+2025-06-01,Healthcare,9.68,Lab tests
+2025-06-02,Healthcare,12.13,Dental checkup
+2025-06-02,Healthcare,21.07,Medicine
+2025-06-02,Other,4.17,Subscription
+2025-06-03,Other,10.03,Repair
+2025-06-03,Other,17.72,Personal care
+2025-06-04,Entertainment,12.38,Movie tickets
+2025-06-05,Education,9.71,Study materials
+2025-06-05,Transportation,13.29,Uber
+2025-06-07,Transportation,11.63,Ride share
+2025-06-08,Healthcare,13.19,Eye exam
+2025-06-08,Transportation,10.52,Taxi ride
+2025-06-08,Bills,54.55,Electricity
+2025-06-08,Healthcare,8.2,Vitamins
+2025-06-09,Healthcare,20.13,Pharmacy
+2025-06-09,Healthcare,6.17,Doctor visit
+2025-06-10,Other,21.73,Beauty
+2025-06-10,Food,5.46,Fast food
+2025-06-11,Education,16.25,Certification
+2025-06-11,Other,12.91,Subscription
+2025-06-11,Other,22.89,Beauty
+2025-06-11,Shopping,9.58,Kitchenware
+2025-06-13,Food,7.18,Lunch
+2025-06-14,Education,7.05,Seminar
+2025-06-14,Education,23.91,Workshop
+2025-06-14,Food,10.87,Street food
+2025-06-14,Food,12.92,Market shopping
+2025-06-16,Other,20.11,Beauty
+2025-06-16,Shopping,6.22,Clothing
+2025-06-17,Education,10.3,Seminar
+2025-06-18,Food,19.37,Bakery items
+2025-06-18,Shopping,19.13,Accessories
+2025-06-20,Entertainment,18.47,Bowling
+2025-06-20,Food,19.03,Lunch
+2025-06-22,Healthcare,11.16,Health insurance
+2025-06-22,Bills,14.5,Internet
+2025-06-23,Entertainment,6.94,Bowling
+2025-06-23,Bills,27.03,Insurance
+2025-06-24,Shopping,38.67,Clothing
+2025-06-25,Transportation,9.3,Parking fee
+2025-06-26,Bills,53.54,Cable TV
+2025-06-26,Transportation,11.7,Taxi ride
+2025-06-27,Education,30.04,Workshop
+2025-06-27,Transportation,8.93,Vehicle maintenance
+2025-06-28,Other,17.24,Donation
+2025-06-28,Other,22.52,Beauty
+2025-06-30,Education,6.5,Books
+2025-07-02,Healthcare,3.82,Vitamins
+2025-07-02,Other,5.75,Membership
+2025-07-03,Transportation,14.41,Taxi ride
+2025-07-04,Shopping,43.0,Kitchenware
+2025-07-05,Transportation,18.35,Gas/Fuel
+2025-07-05,Entertainment,16.89,Gaming
+2025-07-05,Shopping,10.77,Kitchenware
+2025-07-06,Transportation,13.96,Parking fee
+2025-07-06,Shopping,20.77,Accessories
+2025-07-06,Food,15.69,Fruit stand
+2025-07-08,Transportation,8.0,Vehicle maintenance
+2025-07-09,Other,8.68,Pet supplies
+2025-07-09,Shopping,32.87,Home items
+2025-07-10,Food,27.9,Grocery shopping
+2025-07-10,Healthcare,3.48,Eye exam
+2025-07-10,Other,13.56,Hobby materials
+2025-07-12,Healthcare,28.66,Physical therapy
+2025-07-12,Food,23.42,Grocery shopping
+2025-07-12,Other,10.86,Membership
+2025-07-14,Other,15.39,Pet supplies
+2025-07-15,Healthcare,11.74,Dental checkup
+2025-07-16,Food,8.35,Fruit stand
+2025-07-17,Education,34.73,Certification
+2025-07-17,Healthcare,25.52,Vitamins
+2025-07-17,Transportation,15.24,Toll road
+2025-07-18,Entertainment,4.93,Museum
+2025-07-19,Transportation,4.77,Parking fee
+2025-07-19,Shopping,24.3,Kitchenware
+2025-07-20,Education,9.8,Software license
+2025-07-20,Transportation,17.11,Parking fee
+2025-07-21,Shopping,19.18,Accessories
+2025-07-21,Other,2.7,Pet supplies
+2025-07-22,Transportation,2.3,Parking fee
+2025-07-23,Education,49.09,Supplies
+2025-07-23,Other,12.01,Hobby materials
+2025-07-23,Shopping,37.9,Decorations
+2025-07-23,Entertainment,15.86,Music subscription
+2025-07-24,Bills,75.68,Trash service
+2025-07-24,Food,23.79,Snacks
+2025-07-25,Bills,35.21,Water bill
+2025-07-26,Entertainment,19.17,Streaming service
+2025-07-26,Shopping,7.27,Shoes
+2025-07-27,Healthcare,11.34,Eye exam
+2025-07-27,Other,20.13,Personal care
+2025-07-27,Healthcare,31.64,Eye exam
+2025-07-28,Food,13.67,Restaurant meal
+2025-07-28,Other,29.55,Personal care
+2025-07-29,Education,25.9,Certification
+2025-07-29,Healthcare,24.13,Eye exam
+2025-07-30,Other,11.87,Personal care
+2025-07-30,Healthcare,10.14,Doctor visit
+2025-08-01,Education,22.63,Software license
+2025-08-01,Transportation,12.13,Car wash
+2025-08-02,Transportation,10.67,Car wash
+2025-08-02,Education,22.83,Certification
+2025-08-02,Entertainment,12.7,Theater show
+2025-08-04,Food,15.12,Dinner out
+2025-08-05,Education,30.22,Supplies
+2025-08-05,Transportation,9.23,Uber
+2025-08-06,Entertainment,2.39,Concert
+2025-08-07,Education,9.41,Books
+2025-08-07,Education,24.91,Study materials
+2025-08-08,Education,16.0,Seminar
+2025-08-08,Education,28.76,Training
+2025-08-09,Other,5.05,Membership
+2025-08-10,Other,2.58,Donation
+2025-08-10,Bills,48.64,Phone bill
+2025-08-11,Bills,13.56,Cable TV
+2025-08-11,Healthcare,24.0,Eye exam
+2025-08-12,Other,8.33,Hobby materials
+2025-08-13,Entertainment,15.89,Bowling
+2025-08-13,Education,31.11,Supplies
+2025-08-13,Healthcare,22.12,Lab tests
+2025-08-14,Entertainment,11.43,Bowling
+2025-08-14,Other,16.07,Miscellaneous
+2025-08-14,Entertainment,5.41,Theater show
+2025-08-14,Shopping,25.41,Kitchenware
+2025-08-15,Food,3.07,Lunch
+2025-08-16,Food,8.03,Market shopping
+2025-08-16,Transportation,2.14,Ride share
+2025-08-16,Entertainment,15.97,Streaming service
+2025-08-17,Shopping,17.28,Clothing
+2025-08-17,Transportation,2.68,Parking fee
+2025-08-18,Transportation,11.37,Gas/Fuel
+2025-08-19,Other,9.42,Gift
+2025-08-20,Education,26.82,Software license
+2025-08-20,Food,13.98,Snacks
+2025-08-21,Shopping,13.59,Decorations
+2025-08-22,Bills,61.54,HOA fee
+2025-08-23,Healthcare,19.48,Vitamins
+2025-08-24,Other,16.69,Donation
+2025-08-25,Other,8.51,Membership
+2025-08-26,Food,16.83,Fruit stand
+2025-08-26,Food,16.42,Grocery shopping
+2025-08-26,Transportation,6.65,Uber
+2025-08-27,Food,7.44,Breakfast cafe
+2025-08-28,Transportation,4.27,Metro card
+2025-08-29,Shopping,6.14,Accessories
+2025-08-29,Other,5.32,Repair
+2025-08-29,Entertainment,10.95,Gaming
+2025-08-29,Other,8.6,Miscellaneous
+2025-08-29,Other,18.91,Gift
+2025-08-30,Other,15.59,Donation
+2025-08-30,Transportation,1.46,Parking fee
+2025-08-31,Shopping,30.63,Accessories
+2025-09-01,Bills,16.57,Trash service
+2025-09-01,Entertainment,10.15,Gaming
+2025-09-02,Healthcare,8.49,Dental checkup
+2025-09-02,Bills,48.86,Internet
+2025-09-03,Healthcare,11.7,First aid
+2025-09-03,Entertainment,11.13,Bowling
+2025-09-03,Shopping,27.58,Shoes
+2025-09-03,Other,9.25,Membership
+2025-09-03,Education,26.12,Tuition
+2025-09-04,Other,9.88,Gift
+2025-09-05,Healthcare,10.42,Doctor visit
+2025-09-05,Other,18.08,Repair
+2025-09-06,Food,16.06,Market shopping
+2025-09-06,Entertainment,4.29,Gaming
+2025-09-08,Transportation,8.83,Uber
+2025-09-08,Transportation,1.46,Vehicle maintenance
+2025-09-09,Food,10.43,Bakery items
+2025-09-09,Shopping,28.95,Clothing
+2025-09-09,Entertainment,12.84,Sports event
+2025-09-09,Bills,33.05,Rent
+2025-09-10,Education,27.44,Training
+2025-09-11,Bills,54.61,Electricity
+2025-09-11,Healthcare,6.83,Physical therapy
+2025-09-12,Food,11.1,Bakery items
+2025-09-12,Transportation,5.72,Parking fee
+2025-09-12,Education,20.11,Software license
+2025-09-13,Other,3.35,Repair
+2025-09-13,Education,21.17,Online course
+2025-09-14,Entertainment,8.5,Bowling
+2025-09-14,Bills,9.77,Trash service
+2025-09-15,Other,4.09,Beauty
+2025-09-15,Entertainment,12.14,Museum
+2025-09-15,Healthcare,14.1,Medicine
+2025-09-17,Bills,31.56,HOA fee
+2025-09-17,Other,7.47,Hobby materials
+2025-09-18,Food,2.08,Restaurant meal
+2025-09-19,Shopping,25.91,Bedding
+2025-09-19,Education,20.65,Certification
+2025-09-19,Food,8.02,Grocery shopping
+2025-09-20,Shopping,8.69,Kitchenware
+2025-09-20,Food,9.52,Food delivery
+2025-09-22,Transportation,6.3,Parking fee
+2025-09-22,Education,28.21,Certification
+2025-09-23,Healthcare,16.71,Doctor visit
+2025-09-24,Other,5.68,Gift
+2025-09-24,Other,17.18,Subscription
+2025-09-25,Shopping,6.94,Tools
+2025-09-25,Healthcare,4.26,Health insurance
+2025-09-25,Bills,28.38,Rent
+2025-09-25,Food,3.56,Market shopping
+2025-09-25,Healthcare,11.88,Physical therapy
+2025-09-26,Transportation,8.66,Car wash
+2025-09-26,Healthcare,19.39,Lab tests
+2025-09-26,Entertainment,8.69,Bowling
+2025-09-27,Entertainment,8.73,Museum
+2025-09-27,Healthcare,15.69,Pharmacy
+2025-09-28,Food,13.1,Market shopping
+2025-09-29,Shopping,21.93,Home items
+2025-09-29,Education,5.19,Online course
+2025-09-29,Other,15.6,Donation
+2025-09-30,Other,2.82,Hobby materials
+2025-09-30,Education,29.13,Study materials
+2025-09-30,Other,11.61,Subscription
+2025-09-30,Bills,26.92,Electricity
+2025-10-01,Bills,16.48,Phone bill
+2025-10-01,Other,12.6,Miscellaneous
+2025-10-01,Education,26.33,Online course
+2025-10-02,Food,10.76,Street food
+2025-10-02,Entertainment,6.16,Music subscription
+2025-10-02,Food,12.13,Bakery items
+2025-10-03,Education,22.33,Seminar
+2025-10-03,Other,5.6,Pet supplies
+2025-10-04,Other,4.01,Donation
+2025-10-04,Food,4.21,Food delivery
+2025-10-05,Entertainment,12.46,Movie tickets
+2025-10-05,Shopping,16.66,Electronics
+2025-10-05,Bills,59.83,Cable TV
+2025-10-05,Shopping,4.74,Electronics
+2025-10-06,Other,4.94,Hobby materials
+2025-10-06,Education,19.04,Training
+2025-10-06,Healthcare,21.09,Physical therapy
+2025-10-06,Food,9.8,Food delivery
+2025-10-07,Healthcare,19.63,Pharmacy
+2025-10-07,Entertainment,13.08,Sports event
+2025-10-08,Other,16.39,Donation
+2025-10-09,Transportation,10.93,Vehicle maintenance
+2025-10-09,Transportation,7.56,Car wash
+2025-10-09,Healthcare,3.16,Health insurance
+2025-10-09,Transportation,4.0,Ride share
+2025-10-10,Education,23.67,Tuition
+2025-10-10,Entertainment,3.21,Concert
+2025-10-11,Healthcare,21.68,Dental checkup
+2025-10-11,Transportation,3.28,Bus fare
+2025-10-11,Shopping,5.95,Furniture
+2025-10-11,Transportation,3.81,Parking fee
+2025-10-11,Food,16.22,Seafood
+2025-10-11,Education,25.33,Online course
+2025-10-12,Other,16.19,Subscription
+2025-10-12,Other,10.4,Hobby materials
+2025-10-12,Education,4.88,Books
+2025-10-12,Shopping,20.16,Decorations
+2025-10-13,Entertainment,4.18,Music subscription
+2025-10-13,Entertainment,11.89,Streaming service
+2025-10-15,Healthcare,9.95,Health insurance
+2025-10-17,Other,5.67,Subscription
+2025-10-17,Education,27.56,Books
+2025-10-18,Transportation,4.78,Metro card
+2025-10-18,Transportation,2.11,Ride share
+2025-10-18,Other,4.47,Membership
+2025-10-18,Bills,15.31,Internet
+2025-10-18,Food,2.07,Food delivery
+2025-10-18,Other,19.71,Hobby materials
+2025-10-19,Education,5.09,Books
+2025-10-19,Healthcare,5.25,Doctor visit
+2025-10-19,Education,4.9,Workshop
+2025-10-21,Education,5.15,Supplies
+2025-10-21,Food,4.76,Food delivery
+2025-10-22,Education,11.25,Software license
+2025-10-22,Other,10.62,Miscellaneous
+2025-10-23,Entertainment,9.06,Arcade
+2025-10-23,Shopping,23.66,Home items
+2025-10-23,Shopping,29.43,Decorations
+2025-10-23,Transportation,7.84,Ride share
+2025-10-24,Entertainment,3.59,Arcade
+2025-10-25,Bills,39.22,Water bill
+2025-10-25,Entertainment,6.35,Museum
+2025-10-25,Shopping,21.7,Tools
+2025-10-26,Other,4.08,Hobby materials
+2025-10-27,Entertainment,12.0,Arcade
+2025-10-28,Healthcare,9.3,First aid
+2025-10-28,Healthcare,14.74,Doctor visit
+2025-10-29,Transportation,11.39,Taxi ride
+2025-10-29,Transportation,3.97,Toll road
+2025-10-30,Education,25.03,Software license
+2025-10-30,Bills,59.0,Internet
+2025-10-30,Other,5.72,Hobby materials
+2025-10-31,Other,19.33,Repair

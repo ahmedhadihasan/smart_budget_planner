@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+.env
+.venv
+venv/
+ENV/
+.DS_Store
+*.ipynb_checkpoints
+budget_app_gui.py
+budget_app_web_backup.py
